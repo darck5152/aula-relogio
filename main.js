@@ -9,6 +9,6 @@ function updateTime() {
  }
  
  setInterval(updateTime, 1000); 
- updateTime(); // Chama a função para exibir o tempo atual imediatamente
+ updateTime(); // Chama a função para exibir o tempo atual imediatamente//
  /*^obtém a hora, minuto e segundo do aparelho e os coloca em formato de string de horário, depois atualiza a conteúdo do elemento 'time'.
  O setInversal é responsável por atualizar o relogio a cada segundo */
